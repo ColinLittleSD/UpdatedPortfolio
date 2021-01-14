@@ -67,9 +67,9 @@ input[type=text], select, textarea {
   input[type=submit] {
     background-color: rgb(81, 84, 85);
     color: silver;
-    padding: 12px 20px;
     border: none;
     border-radius: 4px;
+    padding: 10px 20px;
     cursor: pointer;
   }
   
